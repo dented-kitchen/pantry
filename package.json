@@ -1,0 +1,26 @@
+{
+  "name": "@dented-kitchen/pantry",
+  "version": "0.1.0",
+  "description": "An open source set of ingredient, equipment and technique data for use with the Replicake library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dented-kitchen/pantry.git"
+  },
+  "keywords": [
+    "recipe",
+    "cooking",
+    "ingredient",
+    "equipment",
+    "kitchen"
+  ],
+  "author": "Dented Kitchen <contact@dentedkitchen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dented-kitchen/pantry/issues"
+  },
+  "homepage": "https://github.com/dented-kitchen/pantry#readme"
+}
